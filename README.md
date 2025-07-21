@@ -46,7 +46,7 @@ npm install
 
 # Run the development server
 npm run dev
-
+```
 
 🔑 Configuration
 1️⃣ Get a free API key from Google AI Studio
@@ -62,7 +62,7 @@ NUXT_PUBLIC_GEMINI_API_KEY=your_google_gemini_api_key_here
 🏗 Project Structure
 
 
----
+```
 
 '/components
   ├── NavHeader.vue
@@ -80,7 +80,7 @@ NUXT_PUBLIC_GEMINI_API_KEY=your_google_gemini_api_key_here
 /assets/css
   └── theme.css
 '
-
+```
 -----
 
 🌟 Future Ideas
