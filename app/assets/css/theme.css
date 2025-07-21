@@ -1,0 +1,39 @@
+/* Default (light) theme */
+body {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+header,
+footer {
+  background-color: #f9f9f9;
+}
+
+a {
+  color: #7e22ce; /* purple-700 */
+}
+
+button {
+  background-color: #7e22ce;
+  color: #ffffff;
+}
+
+/* Dark mode overrides */
+body.dark {
+  background-color: #121212;
+  color: #dddddd;
+}
+
+body.dark header,
+body.dark footer {
+  background-color: #1f1f1f;
+}
+
+body.dark a {
+  color: #c084fc; /* purple-300 */
+}
+
+body.dark button {
+  background-color: #c084fc;
+  color: #121212;
+}
